@@ -7,5 +7,6 @@
 - for this I will be primarily using Seurat
 ## Methods
 ## Results
+<ins>Figure 1.</ins> UMAP displaying the different groups of cells 
 ## Discussion
 ## References
